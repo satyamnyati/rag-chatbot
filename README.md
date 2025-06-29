@@ -18,7 +18,7 @@ Features
     Conversational Interface: Run the chatbot in your terminal for an interactive Q&A session.
 
 Project Structure
-
+```
 .
 ├── documents/              # Place your source documents here
 ├── faiss_index/            # Saved FAISS index is stored here
@@ -31,7 +31,7 @@ Project Structure
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Files to be ignored by Git
 └── README.md               # This file
-
+```
 Installation
 
 1. Clone the Repository (or use the provided files)
